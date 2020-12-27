@@ -1,4 +1,4 @@
-const CACHE = "reurl.vn-precache";
+const CACHE = "lzs.io-precache";
 const precacheFiles = ["index.html", "404.html"];
 
 self.addEventListener("install", function (event) {
