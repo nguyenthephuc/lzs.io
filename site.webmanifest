@@ -1,6 +1,6 @@
 {
-	"name" : "Reurl.io redirect your url",
-	"short_name" : "Reurl.io",
+	"name" : "Lzs.io | URL Shortener",
+	"short_name" : "Lzs.io",
 	"icons" : [
 		{
 			"src": "/imgs/favicon/44x44.png",
@@ -81,10 +81,10 @@
 	"theme_color" : "#ffffff",
 	"background_color" : "#ffffff",
 	"display" : "standalone",
-	"start_url" : "https://reurl.io/",
+	"start_url" : "https://lzs.io/",
 	"lang" : "English",
 	"screenshots" : [],
-	"description" : "reurl.io is a web app to redirect a web, developed on Google App Script.",
+	"description" : "Lzs.io shortens your url/link and saves it forever.",
 	"orientation" : "portrait",
 	"scope" : "/",
 	"generated" : "undefined"
